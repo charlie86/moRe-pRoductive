@@ -1,7 +1,6 @@
 # moRe-pRoductive
 R script to parse the tracks from Radiohead's OK Computer Minidisc recordings (official bandcamp mp3 only)
 
-![](discs_original/cover.jpg)
 ![](discs_split/split_img.png)
 
 ## Instructions
